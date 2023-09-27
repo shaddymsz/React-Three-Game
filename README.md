@@ -35,15 +35,20 @@ Follow these steps to get the game up and running:
    ```
 
 2. Navigate to the project directory:
+   ```bash 
    cd React-Three-Game
-
+   ```
+   
 3. Install the project dependencies:
+   ```bash
    npm install
-
-4. Start the development server:
+   ```
+5. Start the development server:
+   ```bash
    npm start
-
-5. Open your web browser and visit http://localhost:3000 to play the game!
+   ```
+   
+6. Open your web browser and visit http://localhost:3000 to play the game!
 
 ### How to Play
 
